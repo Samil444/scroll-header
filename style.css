@@ -1,0 +1,48 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+div h1{
+    background-color: aquamarine;
+    padding: 40px;
+    position: sticky;
+}
+div p{
+background-color: rgb(60, 73, 85);
+padding: 100px;
+}
+.div1{
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+   
+
+}
+.div2{
+    position: -webkit-sticky;
+    position: sticky;
+    top:0;
+    
+
+}
+.div3{
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    
+
+}
+.div4{
+    position: -webkit-sticky;
+    position: sticky;
+    
+    
+
+}
+.div5{
+    position: -webkit-sticky;
+    position: sticky;
+    
+    
+
+}
